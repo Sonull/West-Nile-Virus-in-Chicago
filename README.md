@@ -10,10 +10,10 @@ In this project, we plan to analyze how we can prevent or West Nile Virus outbre
 Given the weather, location, mosquito, and spraying data, we are going to predict the presence of the West Nile Virus at a specific location, date, time and weather conditions. With this project, we hope to help the City of Chicago more efficiently and effectively allocate resources to prevent the outbreak of the West Nile Virus.
 
 # Important Documents
-The project can be better understood by referring to the following two documents in the folder named 
-**Final Presentation and Report** :
-* Project Report - detailed report on the analysis of datasets, key-findings, comparison of models and learnings.
-* Project Presentation - summarised version of the report highlighting main aspects of the project
+The project can be better understood by referring to the following two documents in the folder named - 
+* **Final Presentation and Report** :
+  * Project Report - detailed report on the analysis of datasets, key-findings, comparison of models and learnings.
+  * Project Presentation - summarised version of the report highlighting main aspects of the project
 
 # Source of Data
 https://www.kaggle.com/c/predict-west-nile-virus
