@@ -1,12 +1,12 @@
-# kaggle-competition1
-This repository stores the teams' work and contribution for the Kaggle competition regarding the west-nile-virus
+# Objective of the Analysis
+Predicting the likelihood of West Nile Virus being present given the location and time of the spray, weather conditions as well as the species of the mosquito present in Chicago.
 
+# Relevant Documents
+* Project Report - detailed report on the analysis of datasets, key-findings, comparison of models and learnings.
+* Project Presentation - summarised version of the report highlighting main aspects of the project
 
-# project-charter
-https://docs.google.com/spreadsheets/d/1vTJwZKphOoM-Rmyki6VeZumse8YOQ4tZ/edit#gid=2037409360
+# Source of Data
+https://www.kaggle.com/c/predict-west-nile-virus
 
-# project-proposal
-https://docs.google.com/document/d/18Q6gZJFyTfFKZj8ygMQrtgCWbfn7vEwIG9CyWNjofnc/edit?usp=sharing
-
-# Final PPT
-https://docs.google.com/presentation/d/1aSlKNIM08Y1TeeThjUAh2f3Wf9oIhbx2/edit#slide=id.p1
+# Team Members
+Sonal Mendiratta, Jennifer Siwu, Yeji Lee, Manodhar Allu, Matthew Littman, Vishnu Madaan
